@@ -27,6 +27,8 @@ It predicts the **future price of a stock** (e.g., MSFT - Microsoft) for upcomin
 ## 🗂️ Project Structure
 📁 stock-market-price-prediction-project/
 ├── app.py # Main Streamlit app
+
+
 ├── demostockprice.ipynb # Jupyter notebook for ML model
 ├── MSFT_data.csv # Sample dataset (Microsoft stock)
 ├── users.json # Stores user login info
